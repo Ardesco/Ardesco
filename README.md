@@ -61,4 +61,4 @@
 
 [twitter]: https://twitter.com/Ardesco
 
-[linkedin]: https://linkedin.com/in/Ardesco
+[linkedin]: https://www.linkedin.com/in/ardesco/
