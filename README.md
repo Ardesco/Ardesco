@@ -36,7 +36,7 @@
 - [The Driver Binary Downloader Maven Plugin for Selenium 1.0.0 Released](https://ardesco.lazerycode.com/testing/2014/01/15/driver-binary-downloader-maven-plugin-selenium-1-0-0-released.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More blog posts...](https://ardesco.lazerycode.com)
+➡️  [More blog posts...](https://ardesco.lazerycode.com)
 
 ---
 ### ⚡ ️Recent GitHub Activity
