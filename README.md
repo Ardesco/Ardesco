@@ -49,11 +49,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#415](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/415) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-2. 🗣 Commented on [#415](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/415) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+1. 💪 Opened PR [#57](https://github.com/hmrc/bank-account-verification-frontend/pull/57) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+2. ❗️ Closed issue [#415](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/415) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 3. 🗣 Commented on [#415](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/415) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-4. 💪 Opened PR [#56](https://github.com/hmrc/bank-account-verification-frontend/pull/56) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
-5. 🎉 Merged PR [#1](https://github.com/Ardesco/lazeryattack.com/pull/1) in [Ardesco/lazeryattack.com](https://github.com/Ardesco/lazeryattack.com)
+4. 🗣 Commented on [#415](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/415) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+5. 💪 Opened PR [#56](https://github.com/hmrc/bank-account-verification-frontend/pull/56) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
 <!--END_SECTION:activity-->
 
 
