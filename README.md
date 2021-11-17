@@ -49,11 +49,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#416](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/416) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-2. 💪 Opened PR [#59](https://github.com/hmrc/bank-account-verification-frontend/pull/59) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
-3. 💪 Opened PR [#57](https://github.com/hmrc/bank-account-verification-frontend/pull/57) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
-4. ❗️ Closed issue [#415](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/415) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-5. 🗣 Commented on [#415](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/415) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+1. 🎉 Merged PR [#26](https://github.com/hmrc/bank-account-verification-example-frontend/pull/26) in [hmrc/bank-account-verification-example-frontend](https://github.com/hmrc/bank-account-verification-example-frontend)
+2. 🗣 Commented on [#416](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/416) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+3. 💪 Opened PR [#59](https://github.com/hmrc/bank-account-verification-frontend/pull/59) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+4. 💪 Opened PR [#57](https://github.com/hmrc/bank-account-verification-frontend/pull/57) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+5. ❗️ Closed issue [#415](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/415) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 <!--END_SECTION:activity-->
 
 
