@@ -49,11 +49,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/hmrc/address-lookup/pull/45) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
-2. 🗣 Commented on [#417](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/417) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-3. 🎉 Merged PR [#39](https://github.com/hmrc/bank-account-reputation-frontend/pull/39) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
-4. 🎉 Merged PR [#38](https://github.com/hmrc/bank-account-reputation-frontend/pull/38) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
-5. 🎉 Merged PR [#61](https://github.com/hmrc/bank-account-verification-frontend/pull/61) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+1. 🎉 Merged PR [#46](https://github.com/hmrc/address-lookup/pull/46) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+2. 🎉 Merged PR [#45](https://github.com/hmrc/address-lookup/pull/45) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+3. 🗣 Commented on [#417](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/417) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+4. 🎉 Merged PR [#39](https://github.com/hmrc/bank-account-reputation-frontend/pull/39) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
+5. 🎉 Merged PR [#38](https://github.com/hmrc/bank-account-reputation-frontend/pull/38) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
 <!--END_SECTION:activity-->
 
 
