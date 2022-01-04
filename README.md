@@ -49,11 +49,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/hmrc/bank-account-verification-frontend/pull/63) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
-2. 🎉 Merged PR [#47](https://github.com/hmrc/address-lookup/pull/47) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
-3. 🎉 Merged PR [#46](https://github.com/hmrc/address-lookup/pull/46) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
-4. 🎉 Merged PR [#45](https://github.com/hmrc/address-lookup/pull/45) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
-5. 🗣 Commented on [#417](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/417) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+1. 💪 Opened PR [#65](https://github.com/hmrc/bank-account-verification-frontend/pull/65) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+2. 🎉 Merged PR [#27](https://github.com/hmrc/bank-account-verification-example-frontend/pull/27) in [hmrc/bank-account-verification-example-frontend](https://github.com/hmrc/bank-account-verification-example-frontend)
+3. 🎉 Merged PR [#64](https://github.com/hmrc/bank-account-verification-frontend/pull/64) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+4. 💪 Opened PR [#63](https://github.com/hmrc/bank-account-verification-frontend/pull/63) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+5. 🎉 Merged PR [#47](https://github.com/hmrc/address-lookup/pull/47) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
 <!--END_SECTION:activity-->
 
 
