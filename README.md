@@ -49,11 +49,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/hmrc/address-lookup-ingest-acceptance-tests/pull/1) in [hmrc/address-lookup-ingest-acceptance-tests](https://github.com/hmrc/address-lookup-ingest-acceptance-tests)
-2. 🎉 Merged PR [#5](https://github.com/hmrc/bars-modcheck-lambda-function/pull/5) in [hmrc/bars-modcheck-lambda-function](https://github.com/hmrc/bars-modcheck-lambda-function)
-3. 🗣 Commented on [#1](https://github.com/hmrc/address-lookup-ingest-acceptance-tests/issues/1) in [hmrc/address-lookup-ingest-acceptance-tests](https://github.com/hmrc/address-lookup-ingest-acceptance-tests)
-4. 🗣 Commented on [#5](https://github.com/hmrc/bars-modcheck-lambda-function/issues/5) in [hmrc/bars-modcheck-lambda-function](https://github.com/hmrc/bars-modcheck-lambda-function)
-5. 💪 Opened PR [#65](https://github.com/hmrc/bank-account-verification-frontend/pull/65) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+1. 🎉 Merged PR [#66](https://github.com/hmrc/bank-account-verification-frontend/pull/66) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+2. 🎉 Merged PR [#1](https://github.com/hmrc/address-lookup-ingest-acceptance-tests/pull/1) in [hmrc/address-lookup-ingest-acceptance-tests](https://github.com/hmrc/address-lookup-ingest-acceptance-tests)
+3. 🎉 Merged PR [#5](https://github.com/hmrc/bars-modcheck-lambda-function/pull/5) in [hmrc/bars-modcheck-lambda-function](https://github.com/hmrc/bars-modcheck-lambda-function)
+4. 🗣 Commented on [#1](https://github.com/hmrc/address-lookup-ingest-acceptance-tests/issues/1) in [hmrc/address-lookup-ingest-acceptance-tests](https://github.com/hmrc/address-lookup-ingest-acceptance-tests)
+5. 🗣 Commented on [#5](https://github.com/hmrc/bars-modcheck-lambda-function/issues/5) in [hmrc/bars-modcheck-lambda-function](https://github.com/hmrc/bars-modcheck-lambda-function)
 <!--END_SECTION:activity-->
 
 
