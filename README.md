@@ -52,8 +52,8 @@
 1. 🗣 Commented on [#418](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/418) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 2. 🗣 Commented on [#418](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/418) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 3. 🗣 Commented on [#418](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/418) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-4. 🎉 Merged PR [#10](https://github.com/hmrc/address-lookup-file-download-lambda-function/pull/10) in [hmrc/address-lookup-file-download-lambda-function](https://github.com/hmrc/address-lookup-file-download-lambda-function)
-5. 🎉 Merged PR [#67](https://github.com/hmrc/bank-account-verification-frontend/pull/67) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+4. 🗣 Commented on [#418](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/418) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+5. 🎉 Merged PR [#10](https://github.com/hmrc/address-lookup-file-download-lambda-function/pull/10) in [hmrc/address-lookup-file-download-lambda-function](https://github.com/hmrc/address-lookup-file-download-lambda-function)
 <!--END_SECTION:activity-->
 
 
