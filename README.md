@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#70](https://github.com/Ardesco/Selenium-Maven-Template/issues/70) in [Ardesco/Selenium-Maven-Template](https://github.com/Ardesco/Selenium-Maven-Template)
-2. 🗣 Commented on [#70](https://github.com/Ardesco/Selenium-Maven-Template/issues/70) in [Ardesco/Selenium-Maven-Template](https://github.com/Ardesco/Selenium-Maven-Template)
-3. 🎉 Merged PR [#71](https://github.com/Ardesco/Selenium-Maven-Template/pull/71) in [Ardesco/Selenium-Maven-Template](https://github.com/Ardesco/Selenium-Maven-Template)
-4. 🎉 Merged PR [#16](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/16) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
-5. 💪 Opened PR [#68](https://github.com/hmrc/bank-account-verification-frontend/pull/68) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+1. 🎉 Merged PR [#120](https://github.com/hmrc/address-lookup-frontend/pull/120) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+2. ❗️ Closed issue [#70](https://github.com/Ardesco/Selenium-Maven-Template/issues/70) in [Ardesco/Selenium-Maven-Template](https://github.com/Ardesco/Selenium-Maven-Template)
+3. 🗣 Commented on [#70](https://github.com/Ardesco/Selenium-Maven-Template/issues/70) in [Ardesco/Selenium-Maven-Template](https://github.com/Ardesco/Selenium-Maven-Template)
+4. 🎉 Merged PR [#71](https://github.com/Ardesco/Selenium-Maven-Template/pull/71) in [Ardesco/Selenium-Maven-Template](https://github.com/Ardesco/Selenium-Maven-Template)
+5. 🎉 Merged PR [#16](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/16) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
 <!--END_SECTION:activity-->
 
 
