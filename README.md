@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/16) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
-2. 💪 Opened PR [#68](https://github.com/hmrc/bank-account-verification-frontend/pull/68) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
-3. 🗣 Commented on [#418](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/418) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-4. 🎉 Merged PR [#6](https://github.com/hmrc/bank-account-reputation-third-party-cache/pull/6) in [hmrc/bank-account-reputation-third-party-cache](https://github.com/hmrc/bank-account-reputation-third-party-cache)
-5. 🗣 Commented on [#418](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/418) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+1. ❗️ Closed issue [#70](https://github.com/Ardesco/Selenium-Maven-Template/issues/70) in [Ardesco/Selenium-Maven-Template](https://github.com/Ardesco/Selenium-Maven-Template)
+2. 🗣 Commented on [#70](https://github.com/Ardesco/Selenium-Maven-Template/issues/70) in [Ardesco/Selenium-Maven-Template](https://github.com/Ardesco/Selenium-Maven-Template)
+3. 🎉 Merged PR [#71](https://github.com/Ardesco/Selenium-Maven-Template/pull/71) in [Ardesco/Selenium-Maven-Template](https://github.com/Ardesco/Selenium-Maven-Template)
+4. 🎉 Merged PR [#16](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/16) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
+5. 💪 Opened PR [#68](https://github.com/hmrc/bank-account-verification-frontend/pull/68) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
 <!--END_SECTION:activity-->
 
 
