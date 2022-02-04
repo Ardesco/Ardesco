@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/hmrc/address-lookup-frontend/pull/122) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
-2. 🎉 Merged PR [#121](https://github.com/hmrc/address-lookup-frontend/pull/121) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
-3. 🎉 Merged PR [#120](https://github.com/hmrc/address-lookup-frontend/pull/120) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
-4. ❗️ Closed issue [#70](https://github.com/Ardesco/Selenium-Maven-Template/issues/70) in [Ardesco/Selenium-Maven-Template](https://github.com/Ardesco/Selenium-Maven-Template)
-5. 🗣 Commented on [#70](https://github.com/Ardesco/Selenium-Maven-Template/issues/70) in [Ardesco/Selenium-Maven-Template](https://github.com/Ardesco/Selenium-Maven-Template)
+1. 💪 Opened PR [#123](https://github.com/hmrc/address-lookup-frontend/pull/123) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+2. 💪 Opened PR [#122](https://github.com/hmrc/address-lookup-frontend/pull/122) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+3. 🎉 Merged PR [#121](https://github.com/hmrc/address-lookup-frontend/pull/121) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+4. 🎉 Merged PR [#120](https://github.com/hmrc/address-lookup-frontend/pull/120) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+5. ❗️ Closed issue [#70](https://github.com/Ardesco/Selenium-Maven-Template/issues/70) in [Ardesco/Selenium-Maven-Template](https://github.com/Ardesco/Selenium-Maven-Template)
 <!--END_SECTION:activity-->
 
 
