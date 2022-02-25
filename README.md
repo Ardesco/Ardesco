@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/alphagov/govuk-design-system-backlog/issues/149) in [alphagov/govuk-design-system-backlog](https://github.com/alphagov/govuk-design-system-backlog)
-2. 💪 Opened PR [#69](https://github.com/hmrc/bank-account-verification-frontend/pull/69) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
-3. 💪 Opened PR [#123](https://github.com/hmrc/address-lookup-frontend/pull/123) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
-4. 💪 Opened PR [#122](https://github.com/hmrc/address-lookup-frontend/pull/122) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
-5. 🎉 Merged PR [#121](https://github.com/hmrc/address-lookup-frontend/pull/121) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+1. 🎉 Merged PR [#1](https://github.com/hmrc/cip-bank-account-insights/pull/1) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+2. 🗣 Commented on [#149](https://github.com/alphagov/govuk-design-system-backlog/issues/149) in [alphagov/govuk-design-system-backlog](https://github.com/alphagov/govuk-design-system-backlog)
+3. 💪 Opened PR [#69](https://github.com/hmrc/bank-account-verification-frontend/pull/69) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+4. 💪 Opened PR [#123](https://github.com/hmrc/address-lookup-frontend/pull/123) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+5. 💪 Opened PR [#122](https://github.com/hmrc/address-lookup-frontend/pull/122) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
 <!--END_SECTION:activity-->
 
 
