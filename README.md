@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/hmrc/bank-account-reputation-frontend/pull/40) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
-2. 🎉 Merged PR [#1](https://github.com/hmrc/cip-bank-account-insights/pull/1) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
-3. 🗣 Commented on [#149](https://github.com/alphagov/govuk-design-system-backlog/issues/149) in [alphagov/govuk-design-system-backlog](https://github.com/alphagov/govuk-design-system-backlog)
-4. 💪 Opened PR [#69](https://github.com/hmrc/bank-account-verification-frontend/pull/69) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
-5. 💪 Opened PR [#123](https://github.com/hmrc/address-lookup-frontend/pull/123) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+1. 💪 Opened PR [#53](https://github.com/hmrc/address-lookup/pull/53) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+2. 💪 Opened PR [#40](https://github.com/hmrc/bank-account-reputation-frontend/pull/40) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
+3. 🎉 Merged PR [#1](https://github.com/hmrc/cip-bank-account-insights/pull/1) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+4. 🗣 Commented on [#149](https://github.com/alphagov/govuk-design-system-backlog/issues/149) in [alphagov/govuk-design-system-backlog](https://github.com/alphagov/govuk-design-system-backlog)
+5. 💪 Opened PR [#69](https://github.com/hmrc/bank-account-verification-frontend/pull/69) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
 <!--END_SECTION:activity-->
 
 
