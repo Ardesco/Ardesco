@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/DotNetSeleniumTools/DotNetSeleniumExtras/pull/18) in [DotNetSeleniumTools/DotNetSeleniumExtras](https://github.com/DotNetSeleniumTools/DotNetSeleniumExtras)
-2. 💪 Opened PR [#3](https://github.com/hmrc/address-lookup-non-uk-ingest-lambda-function/pull/3) in [hmrc/address-lookup-non-uk-ingest-lambda-function](https://github.com/hmrc/address-lookup-non-uk-ingest-lambda-function)
-3. 💪 Opened PR [#53](https://github.com/hmrc/address-lookup/pull/53) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
-4. 💪 Opened PR [#40](https://github.com/hmrc/bank-account-reputation-frontend/pull/40) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
-5. 🎉 Merged PR [#1](https://github.com/hmrc/cip-bank-account-insights/pull/1) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+1. 🎉 Merged PR [#54](https://github.com/hmrc/address-lookup/pull/54) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+2. 💪 Opened PR [#18](https://github.com/DotNetSeleniumTools/DotNetSeleniumExtras/pull/18) in [DotNetSeleniumTools/DotNetSeleniumExtras](https://github.com/DotNetSeleniumTools/DotNetSeleniumExtras)
+3. 💪 Opened PR [#3](https://github.com/hmrc/address-lookup-non-uk-ingest-lambda-function/pull/3) in [hmrc/address-lookup-non-uk-ingest-lambda-function](https://github.com/hmrc/address-lookup-non-uk-ingest-lambda-function)
+4. 💪 Opened PR [#53](https://github.com/hmrc/address-lookup/pull/53) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+5. 💪 Opened PR [#40](https://github.com/hmrc/bank-account-reputation-frontend/pull/40) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
 <!--END_SECTION:activity-->
 
 
