@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/3) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
-2. 💪 Opened PR [#2](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/2) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
-3. 💪 Opened PR [#1](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/1) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
-4. 🎉 Merged PR [#54](https://github.com/hmrc/address-lookup/pull/54) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
-5. 💪 Opened PR [#18](https://github.com/DotNetSeleniumTools/DotNetSeleniumExtras/pull/18) in [DotNetSeleniumTools/DotNetSeleniumExtras](https://github.com/DotNetSeleniumTools/DotNetSeleniumExtras)
+1. 🎉 Merged PR [#3](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/3) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
+2. 💪 Opened PR [#3](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/3) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
+3. 💪 Opened PR [#2](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/2) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
+4. 💪 Opened PR [#1](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/1) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
+5. 🎉 Merged PR [#54](https://github.com/hmrc/address-lookup/pull/54) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
 <!--END_SECTION:activity-->
 
 
