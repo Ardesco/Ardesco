@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/issues/7) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
-2. 💪 Opened PR [#7](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/7) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
-3. 💪 Opened PR [#55](https://github.com/hmrc/address-lookup/pull/55) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
-4. 💪 Opened PR [#125](https://github.com/hmrc/address-lookup-frontend/pull/125) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
-5. 💪 Opened PR [#6](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/6) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
+1. 🎉 Merged PR [#126](https://github.com/hmrc/address-lookup-frontend/pull/126) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+2. 🗣 Commented on [#7](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/issues/7) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
+3. 💪 Opened PR [#7](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/7) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
+4. 💪 Opened PR [#55](https://github.com/hmrc/address-lookup/pull/55) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+5. 💪 Opened PR [#125](https://github.com/hmrc/address-lookup-frontend/pull/125) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
 <!--END_SECTION:activity-->
 
 
