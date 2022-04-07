@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/hmrc/bank-account-reputation-stubs/pull/2) in [hmrc/bank-account-reputation-stubs](https://github.com/hmrc/bank-account-reputation-stubs)
-2. 🗣 Commented on [#421](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/421) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-3. 🗣 Commented on [#419](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/419) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-4. ❗️ Reopened issue [#421](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/421) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-5. 🗣 Commented on [#421](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/421) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+1. 🎉 Merged PR [#57](https://github.com/hmrc/address-lookup/pull/57) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+2. 💪 Opened PR [#2](https://github.com/hmrc/bank-account-reputation-stubs/pull/2) in [hmrc/bank-account-reputation-stubs](https://github.com/hmrc/bank-account-reputation-stubs)
+3. 🗣 Commented on [#421](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/421) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+4. 🗣 Commented on [#419](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/419) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+5. ❗️ Reopened issue [#421](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/421) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 <!--END_SECTION:activity-->
 
 
