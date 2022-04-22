@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/hmrc/address-lookup-non-uk-ingest-lambda-function/pull/6) in [hmrc/address-lookup-non-uk-ingest-lambda-function](https://github.com/hmrc/address-lookup-non-uk-ingest-lambda-function)
-2. ❗️ Closed issue [#422](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/422) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-3. 🗣 Commented on [#422](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/422) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-4. 🎉 Merged PR [#57](https://github.com/hmrc/address-lookup/pull/57) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
-5. 💪 Opened PR [#2](https://github.com/hmrc/bank-account-reputation-stubs/pull/2) in [hmrc/bank-account-reputation-stubs](https://github.com/hmrc/bank-account-reputation-stubs)
+1. 🎉 Merged PR [#7](https://github.com/hmrc/address-lookup-non-uk-ingest-lambda-function/pull/7) in [hmrc/address-lookup-non-uk-ingest-lambda-function](https://github.com/hmrc/address-lookup-non-uk-ingest-lambda-function)
+2. 🎉 Merged PR [#6](https://github.com/hmrc/address-lookup-non-uk-ingest-lambda-function/pull/6) in [hmrc/address-lookup-non-uk-ingest-lambda-function](https://github.com/hmrc/address-lookup-non-uk-ingest-lambda-function)
+3. ❗️ Closed issue [#422](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/422) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+4. 🗣 Commented on [#422](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/422) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+5. 🎉 Merged PR [#57](https://github.com/hmrc/address-lookup/pull/57) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
 <!--END_SECTION:activity-->
 
 
