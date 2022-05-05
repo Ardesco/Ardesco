@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#132](https://github.com/hmrc/address-lookup-frontend/pull/132) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
-2. 🎉 Merged PR [#62](https://github.com/hmrc/address-lookup/pull/62) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
-3. 🎉 Merged PR [#131](https://github.com/hmrc/address-lookup-frontend/pull/131) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
-4. 🎉 Merged PR [#130](https://github.com/hmrc/address-lookup-frontend/pull/130) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
-5. 💪 Opened PR [#10](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/10) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
+1. 🎉 Merged PR [#133](https://github.com/hmrc/address-lookup-frontend/pull/133) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+2. 🎉 Merged PR [#132](https://github.com/hmrc/address-lookup-frontend/pull/132) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+3. 🎉 Merged PR [#62](https://github.com/hmrc/address-lookup/pull/62) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+4. 🎉 Merged PR [#131](https://github.com/hmrc/address-lookup-frontend/pull/131) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+5. 🎉 Merged PR [#130](https://github.com/hmrc/address-lookup-frontend/pull/130) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
 <!--END_SECTION:activity-->
 
 
