@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#423](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/423) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-2. 🗣 Commented on [#423](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/423) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-3. 💪 Opened PR [#16](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/16) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
-4. 🎉 Merged PR [#137](https://github.com/hmrc/address-lookup-frontend/pull/137) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
-5. 💪 Opened PR [#136](https://github.com/hmrc/address-lookup-frontend/pull/136) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+1. 🎉 Merged PR [#64](https://github.com/hmrc/address-lookup/pull/64) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+2. 🎉 Merged PR [#42](https://github.com/hmrc/bank-account-reputation-frontend/pull/42) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
+3. ❗️ Closed issue [#423](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/423) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+4. 🗣 Commented on [#423](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/423) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+5. 💪 Opened PR [#16](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/16) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
 <!--END_SECTION:activity-->
 
 
