@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/17) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
-2. ❗️ Closed issue [#421](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/421) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-3. 🗣 Commented on [#421](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/421) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-4. 🗣 Commented on [#425](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/425) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-5. ❗️ Closed issue [#425](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/425) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+1. 🎉 Merged PR [#5](https://github.com/hmrc/cip-bank-account-insights/pull/5) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+2. 💪 Opened PR [#17](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/17) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
+3. ❗️ Closed issue [#421](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/421) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+4. 🗣 Commented on [#421](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/421) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+5. 🗣 Commented on [#425](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/425) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 <!--END_SECTION:activity-->
 
 
