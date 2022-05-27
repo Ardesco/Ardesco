@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/hmrc/cip-bank-account-insights/pull/6) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
-2. 🎉 Merged PR [#5](https://github.com/hmrc/cip-bank-account-insights/pull/5) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
-3. 💪 Opened PR [#17](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/17) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
-4. ❗️ Closed issue [#421](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/421) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-5. 🗣 Commented on [#421](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/421) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+1. 🎉 Merged PR [#8](https://github.com/hmrc/cip-bank-account-insights/pull/8) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+2. 🎉 Merged PR [#7](https://github.com/hmrc/cip-bank-account-insights/pull/7) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+3. 🎉 Merged PR [#6](https://github.com/hmrc/cip-bank-account-insights/pull/6) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+4. 🎉 Merged PR [#5](https://github.com/hmrc/cip-bank-account-insights/pull/5) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+5. 💪 Opened PR [#17](https://github.com/hmrc/address-lookup-frontend-acceptance-tests/pull/17) in [hmrc/address-lookup-frontend-acceptance-tests](https://github.com/hmrc/address-lookup-frontend-acceptance-tests)
 <!--END_SECTION:activity-->
 
 
