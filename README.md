@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/hmrc/cip-bank-account-insights/pull/19) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
-2. 🎉 Merged PR [#18](https://github.com/hmrc/cip-bank-account-insights/pull/18) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
-3. 💪 Opened PR [#1](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/1) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
-4. 🎉 Merged PR [#17](https://github.com/hmrc/cip-bank-account-insights/pull/17) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
-5. 🎉 Merged PR [#16](https://github.com/hmrc/cip-bank-account-insights/pull/16) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+1. 💪 Opened PR [#2](https://github.com/hmrc/cip-bank-account-insights-perf-tests/pull/2) in [hmrc/cip-bank-account-insights-perf-tests](https://github.com/hmrc/cip-bank-account-insights-perf-tests)
+2. 💪 Opened PR [#1](https://github.com/hmrc/cip-bank-account-insights-perf-tests/pull/1) in [hmrc/cip-bank-account-insights-perf-tests](https://github.com/hmrc/cip-bank-account-insights-perf-tests)
+3. 🎉 Merged PR [#19](https://github.com/hmrc/cip-bank-account-insights/pull/19) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+4. 🎉 Merged PR [#18](https://github.com/hmrc/cip-bank-account-insights/pull/18) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+5. 💪 Opened PR [#1](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/1) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
 <!--END_SECTION:activity-->
 
 
