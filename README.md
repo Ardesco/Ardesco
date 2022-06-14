@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/hmrc/cip-risk-lists/pull/3) in [hmrc/cip-risk-lists](https://github.com/hmrc/cip-risk-lists)
-2. 🎉 Merged PR [#21](https://github.com/hmrc/cip-bank-account-insights/pull/21) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
-3. 🎉 Merged PR [#20](https://github.com/hmrc/cip-bank-account-insights/pull/20) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
-4. 💪 Opened PR [#139](https://github.com/hmrc/address-lookup-frontend/pull/139) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
-5. 💪 Opened PR [#2](https://github.com/hmrc/cip-bank-account-insights-perf-tests/pull/2) in [hmrc/cip-bank-account-insights-perf-tests](https://github.com/hmrc/cip-bank-account-insights-perf-tests)
+1. 🎉 Merged PR [#4](https://github.com/hmrc/cip-risk-lists/pull/4) in [hmrc/cip-risk-lists](https://github.com/hmrc/cip-risk-lists)
+2. 🎉 Merged PR [#3](https://github.com/hmrc/cip-risk-lists/pull/3) in [hmrc/cip-risk-lists](https://github.com/hmrc/cip-risk-lists)
+3. 🎉 Merged PR [#21](https://github.com/hmrc/cip-bank-account-insights/pull/21) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+4. 🎉 Merged PR [#20](https://github.com/hmrc/cip-bank-account-insights/pull/20) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+5. 💪 Opened PR [#139](https://github.com/hmrc/address-lookup-frontend/pull/139) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
 <!--END_SECTION:activity-->
 
 
