@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/hmrc/cip-risk-lists/pull/5) in [hmrc/cip-risk-lists](https://github.com/hmrc/cip-risk-lists)
-2. 🎉 Merged PR [#9](https://github.com/Ardesco/ardesco.github.io/pull/9) in [Ardesco/ardesco.github.io](https://github.com/Ardesco/ardesco.github.io)
-3. 🎉 Merged PR [#22](https://github.com/hmrc/cip-bank-account-insights/pull/22) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
-4. 🗣 Commented on [#5](https://github.com/hmrc/cip-risk-lists/issues/5) in [hmrc/cip-risk-lists](https://github.com/hmrc/cip-risk-lists)
-5. ❗️ Closed issue [#417](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/417) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+1. 💪 Opened PR [#23](https://github.com/hmrc/cip-bank-account-insights/pull/23) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+2. 🎉 Merged PR [#5](https://github.com/hmrc/cip-risk-lists/pull/5) in [hmrc/cip-risk-lists](https://github.com/hmrc/cip-risk-lists)
+3. 🎉 Merged PR [#9](https://github.com/Ardesco/ardesco.github.io/pull/9) in [Ardesco/ardesco.github.io](https://github.com/Ardesco/ardesco.github.io)
+4. 🎉 Merged PR [#22](https://github.com/hmrc/cip-bank-account-insights/pull/22) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+5. 🗣 Commented on [#5](https://github.com/hmrc/cip-risk-lists/issues/5) in [hmrc/cip-risk-lists](https://github.com/hmrc/cip-risk-lists)
 <!--END_SECTION:activity-->
 
 
