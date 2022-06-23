@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/2) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
-2. 💪 Opened PR [#23](https://github.com/hmrc/cip-bank-account-insights/pull/23) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
-3. 🎉 Merged PR [#5](https://github.com/hmrc/cip-risk-lists/pull/5) in [hmrc/cip-risk-lists](https://github.com/hmrc/cip-risk-lists)
-4. 🎉 Merged PR [#9](https://github.com/Ardesco/ardesco.github.io/pull/9) in [Ardesco/ardesco.github.io](https://github.com/Ardesco/ardesco.github.io)
-5. 🎉 Merged PR [#22](https://github.com/hmrc/cip-bank-account-insights/pull/22) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+1. 🎉 Merged PR [#24](https://github.com/hmrc/cip-bank-account-insights/pull/24) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+2. 💪 Opened PR [#2](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/2) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+3. 💪 Opened PR [#23](https://github.com/hmrc/cip-bank-account-insights/pull/23) in [hmrc/cip-bank-account-insights](https://github.com/hmrc/cip-bank-account-insights)
+4. 🎉 Merged PR [#5](https://github.com/hmrc/cip-risk-lists/pull/5) in [hmrc/cip-risk-lists](https://github.com/hmrc/cip-risk-lists)
+5. 🎉 Merged PR [#9](https://github.com/Ardesco/ardesco.github.io/pull/9) in [Ardesco/ardesco.github.io](https://github.com/Ardesco/ardesco.github.io)
 <!--END_SECTION:activity-->
 
 
