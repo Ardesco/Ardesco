@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/hmrc/bank-account-verification-frontend/pull/70) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
-2. 🎉 Merged PR [#2](https://github.com/hmrc/bank-account-gateway/pull/2) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
-3. 💪 Opened PR [#6](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/6) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
-4. 💪 Opened PR [#5](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/5) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
-5. 💪 Opened PR [#4](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/4) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+1. 💪 Opened PR [#66](https://github.com/hmrc/address-lookup/pull/66) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+2. 🎉 Merged PR [#70](https://github.com/hmrc/bank-account-verification-frontend/pull/70) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+3. 🎉 Merged PR [#2](https://github.com/hmrc/bank-account-gateway/pull/2) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
+4. 💪 Opened PR [#6](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/6) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+5. 💪 Opened PR [#5](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/5) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
 <!--END_SECTION:activity-->
 
 
