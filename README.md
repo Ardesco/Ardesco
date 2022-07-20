@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/hmrc/nino-insights-acceptance-tests/pull/1) in [hmrc/nino-insights-acceptance-tests](https://github.com/hmrc/nino-insights-acceptance-tests)
-2. 💪 Opened PR [#7](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/7) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
-3. 🎉 Merged PR [#5](https://github.com/hmrc/bank-account-gateway/pull/5) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
-4. 🎉 Merged PR [#4](https://github.com/hmrc/bank-account-gateway/pull/4) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
-5. 💪 Opened PR [#66](https://github.com/hmrc/address-lookup/pull/66) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+1. 💪 Opened PR [#2](https://github.com/hmrc/nino-insights-acceptance-tests/pull/2) in [hmrc/nino-insights-acceptance-tests](https://github.com/hmrc/nino-insights-acceptance-tests)
+2. 💪 Opened PR [#1](https://github.com/hmrc/nino-insights-acceptance-tests/pull/1) in [hmrc/nino-insights-acceptance-tests](https://github.com/hmrc/nino-insights-acceptance-tests)
+3. 💪 Opened PR [#7](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/7) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+4. 🎉 Merged PR [#5](https://github.com/hmrc/bank-account-gateway/pull/5) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
+5. 🎉 Merged PR [#4](https://github.com/hmrc/bank-account-gateway/pull/4) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
 <!--END_SECTION:activity-->
 
 
