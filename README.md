@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/hmrc/cip-bank-account-insights-perf-tests/pull/5) in [hmrc/cip-bank-account-insights-perf-tests](https://github.com/hmrc/cip-bank-account-insights-perf-tests)
-2. 💪 Opened PR [#3](https://github.com/hmrc/nino-insights-performance-tests/pull/3) in [hmrc/nino-insights-performance-tests](https://github.com/hmrc/nino-insights-performance-tests)
-3. 🗣 Commented on [#427](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/427) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+1. 💪 Opened PR [#6](https://github.com/hmrc/cip-bank-account-insights-perf-tests/pull/6) in [hmrc/cip-bank-account-insights-perf-tests](https://github.com/hmrc/cip-bank-account-insights-perf-tests)
+2. 💪 Opened PR [#5](https://github.com/hmrc/cip-bank-account-insights-perf-tests/pull/5) in [hmrc/cip-bank-account-insights-perf-tests](https://github.com/hmrc/cip-bank-account-insights-perf-tests)
+3. 💪 Opened PR [#3](https://github.com/hmrc/nino-insights-performance-tests/pull/3) in [hmrc/nino-insights-performance-tests](https://github.com/hmrc/nino-insights-performance-tests)
 4. 🗣 Commented on [#427](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/427) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-5. 🎉 Merged PR [#427](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/pull/427) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+5. 🗣 Commented on [#427](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/427) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 <!--END_SECTION:activity-->
 
 
