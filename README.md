@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/9) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
-2. 🎉 Merged PR [#18](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/18) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
-3. 💪 Opened PR [#8](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/8) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
-4. 🎉 Merged PR [#140](https://github.com/hmrc/address-lookup-frontend/pull/140) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
-5. 💪 Opened PR [#6](https://github.com/hmrc/cip-bank-account-insights-perf-tests/pull/6) in [hmrc/cip-bank-account-insights-perf-tests](https://github.com/hmrc/cip-bank-account-insights-perf-tests)
+1. 💪 Opened PR [#11](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/11) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+2. 💪 Opened PR [#10](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/10) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+3. 💪 Opened PR [#9](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/9) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+4. 🎉 Merged PR [#18](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/18) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
+5. 💪 Opened PR [#8](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/8) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
 <!--END_SECTION:activity-->
 
 
