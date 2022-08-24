@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/11) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
-2. 💪 Opened PR [#10](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/10) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
-3. 💪 Opened PR [#9](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/9) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
-4. 🎉 Merged PR [#18](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/18) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
-5. 💪 Opened PR [#8](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/8) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+1. 🎉 Merged PR [#8](https://github.com/hmrc/bank-account-gateway/pull/8) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
+2. 💪 Opened PR [#11](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/11) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+3. 💪 Opened PR [#10](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/10) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+4. 💪 Opened PR [#9](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/9) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+5. 🎉 Merged PR [#18](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/18) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
 <!--END_SECTION:activity-->
 
 
