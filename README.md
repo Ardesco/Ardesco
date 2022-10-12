@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Ardesco/lazeryattack.com/pull/3) in [Ardesco/lazeryattack.com](https://github.com/Ardesco/lazeryattack.com)
-2. 💪 Opened PR [#5](https://github.com/hmrc/nino-insights-performance-tests/pull/5) in [hmrc/nino-insights-performance-tests](https://github.com/hmrc/nino-insights-performance-tests)
-3. 💪 Opened PR [#4](https://github.com/hmrc/nino-insights-performance-tests/pull/4) in [hmrc/nino-insights-performance-tests](https://github.com/hmrc/nino-insights-performance-tests)
-4. 💪 Opened PR [#6](https://github.com/hmrc/nino-insights-acceptance-tests/pull/6) in [hmrc/nino-insights-acceptance-tests](https://github.com/hmrc/nino-insights-acceptance-tests)
-5. 💪 Opened PR [#5](https://github.com/hmrc/nino-insights-acceptance-tests/pull/5) in [hmrc/nino-insights-acceptance-tests](https://github.com/hmrc/nino-insights-acceptance-tests)
+1. 🎉 Merged PR [#12](https://github.com/hmrc/bank-account-gateway/pull/12) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
+2. 🎉 Merged PR [#3](https://github.com/Ardesco/lazeryattack.com/pull/3) in [Ardesco/lazeryattack.com](https://github.com/Ardesco/lazeryattack.com)
+3. 💪 Opened PR [#5](https://github.com/hmrc/nino-insights-performance-tests/pull/5) in [hmrc/nino-insights-performance-tests](https://github.com/hmrc/nino-insights-performance-tests)
+4. 💪 Opened PR [#4](https://github.com/hmrc/nino-insights-performance-tests/pull/4) in [hmrc/nino-insights-performance-tests](https://github.com/hmrc/nino-insights-performance-tests)
+5. 💪 Opened PR [#6](https://github.com/hmrc/nino-insights-acceptance-tests/pull/6) in [hmrc/nino-insights-acceptance-tests](https://github.com/hmrc/nino-insights-acceptance-tests)
 <!--END_SECTION:activity-->
 
 
