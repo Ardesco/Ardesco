@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/hmrc/cip-bank-account-insights-perf-tests/pull/7) in [hmrc/cip-bank-account-insights-perf-tests](https://github.com/hmrc/cip-bank-account-insights-perf-tests)
-2. 💪 Opened PR [#14](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/14) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
-3. 💪 Opened PR [#13](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/13) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
-4. 🎉 Merged PR [#13](https://github.com/hmrc/bank-account-gateway/pull/13) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
-5. 🎉 Merged PR [#12](https://github.com/hmrc/bank-account-gateway/pull/12) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
+1. 🎉 Merged PR [#20](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/20) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
+2. 💪 Opened PR [#7](https://github.com/hmrc/cip-bank-account-insights-perf-tests/pull/7) in [hmrc/cip-bank-account-insights-perf-tests](https://github.com/hmrc/cip-bank-account-insights-perf-tests)
+3. 💪 Opened PR [#14](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/14) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+4. 💪 Opened PR [#13](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests/pull/13) in [hmrc/cip-bank-account-insights-acceptance-tests](https://github.com/hmrc/cip-bank-account-insights-acceptance-tests)
+5. 🎉 Merged PR [#13](https://github.com/hmrc/bank-account-gateway/pull/13) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
 <!--END_SECTION:activity-->
 
 
