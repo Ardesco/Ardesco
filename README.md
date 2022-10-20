@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/23) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
-2. 🎉 Merged PR [#22](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/22) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
-3. 🎉 Merged PR [#21](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/21) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
-4. 🎉 Merged PR [#20](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/20) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
-5. 💪 Opened PR [#7](https://github.com/hmrc/cip-bank-account-insights-perf-tests/pull/7) in [hmrc/cip-bank-account-insights-perf-tests](https://github.com/hmrc/cip-bank-account-insights-perf-tests)
+1. 💪 Opened PR [#14](https://github.com/hmrc/bank-account-gateway/pull/14) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
+2. 💪 Opened PR [#5](https://github.com/hmrc/nino-gateway/pull/5) in [hmrc/nino-gateway](https://github.com/hmrc/nino-gateway)
+3. 🎉 Merged PR [#23](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/23) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
+4. 🎉 Merged PR [#22](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/22) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
+5. 🎉 Merged PR [#21](https://github.com/hmrc/address-lookup-ingest-lambda-function/pull/21) in [hmrc/address-lookup-ingest-lambda-function](https://github.com/hmrc/address-lookup-ingest-lambda-function)
 <!--END_SECTION:activity-->
 
 
