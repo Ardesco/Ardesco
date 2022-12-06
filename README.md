@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1658](https://github.com/kubeshop/testkube/issues/1658) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
+1. 🗣 Commented on [#140](https://github.com/Vanco/SequencePlugin/issues/140) in [Vanco/SequencePlugin](https://github.com/Vanco/SequencePlugin)
 2. 🗣 Commented on [#1658](https://github.com/kubeshop/testkube/issues/1658) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
-3. ❗️ Opened issue [#70](https://github.com/IdeaGinkgo/Intellij-Ginkgo/issues/70) in [IdeaGinkgo/Intellij-Ginkgo](https://github.com/IdeaGinkgo/Intellij-Ginkgo)
-4. 🗣 Commented on [#434](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/434) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-5. 💪 Opened PR [#7](https://github.com/hmrc/nino-insights-acceptance-tests/pull/7) in [hmrc/nino-insights-acceptance-tests](https://github.com/hmrc/nino-insights-acceptance-tests)
+3. 🗣 Commented on [#1658](https://github.com/kubeshop/testkube/issues/1658) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
+4. ❗️ Opened issue [#70](https://github.com/IdeaGinkgo/Intellij-Ginkgo/issues/70) in [IdeaGinkgo/Intellij-Ginkgo](https://github.com/IdeaGinkgo/Intellij-Ginkgo)
+5. 🗣 Commented on [#434](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/434) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 <!--END_SECTION:activity-->
 
 
