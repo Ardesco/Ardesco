@@ -52,10 +52,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-2. 🗣 Commented on [#1658](https://github.com/kubeshop/testkube/issues/1658) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
-3. 🗣 Commented on [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-4. 🗣 Commented on [#140](https://github.com/Vanco/SequencePlugin/issues/140) in [Vanco/SequencePlugin](https://github.com/Vanco/SequencePlugin)
-5. 🗣 Commented on [#1658](https://github.com/kubeshop/testkube/issues/1658) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
+2. 🗣 Commented on [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+3. 🗣 Commented on [#1658](https://github.com/kubeshop/testkube/issues/1658) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
+4. 🗣 Commented on [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+5. 🗣 Commented on [#140](https://github.com/Vanco/SequencePlugin/issues/140) in [Vanco/SequencePlugin](https://github.com/Vanco/SequencePlugin)
 <!--END_SECTION:activity-->
 
 
