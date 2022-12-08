@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/Vanco/SequencePlugin/issues/140) in [Vanco/SequencePlugin](https://github.com/Vanco/SequencePlugin)
-2. 🗣 Commented on [#1658](https://github.com/kubeshop/testkube/issues/1658) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
+1. 🗣 Commented on [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+2. 🗣 Commented on [#140](https://github.com/Vanco/SequencePlugin/issues/140) in [Vanco/SequencePlugin](https://github.com/Vanco/SequencePlugin)
 3. 🗣 Commented on [#1658](https://github.com/kubeshop/testkube/issues/1658) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
-4. ❗️ Opened issue [#70](https://github.com/IdeaGinkgo/Intellij-Ginkgo/issues/70) in [IdeaGinkgo/Intellij-Ginkgo](https://github.com/IdeaGinkgo/Intellij-Ginkgo)
-5. 🗣 Commented on [#434](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/434) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+4. 🗣 Commented on [#1658](https://github.com/kubeshop/testkube/issues/1658) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
+5. ❗️ Opened issue [#70](https://github.com/IdeaGinkgo/Intellij-Ginkgo/issues/70) in [IdeaGinkgo/Intellij-Ginkgo](https://github.com/IdeaGinkgo/Intellij-Ginkgo)
 <!--END_SECTION:activity-->
 
 
