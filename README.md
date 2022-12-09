@@ -31,11 +31,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JMeter Maven Plugin 3.7.0 Released](https://ardesco.lazerycode.com/oss/2022/12/09/jmeter-maven-plugin-3-7-0-released.html)
 - [JMeter Maven Plugin 3.6.0 Released](https://ardesco.lazerycode.com/oss/2022/06/15/jmeter-maven-plugin-3-6-0-released.html)
 - [Adding HTTP certificates to Pi-Hole with LEGO](https://ardesco.lazerycode.com/devops/2022/01/11/lets-encrypt-on-pihole.html)
 - [Fixing JMeter security flaws with the JMeter Maven Plugin](https://ardesco.lazerycode.com/oss/2021/12/28/fixing-security-flaws-with-the-jmeter-maven-plugin.html)
 - [JMeter Maven Plugin 3.5.0 Released](https://ardesco.lazerycode.com/oss/2021/10/09/jmeter-maven-plugin-3-5-0-released.html)
-- [Automated Tests Should Be Living Documentation](https://ardesco.lazerycode.com/testing/2014/09/17/automated-tests-should-be-living-documentation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ &nbsp;[More blog posts...](https://ardesco.lazerycode.com)
