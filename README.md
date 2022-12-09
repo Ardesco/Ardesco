@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-2. 🗣 Commented on [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-3. 🗣 Commented on [#1658](https://github.com/kubeshop/testkube/issues/1658) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
-4. 🗣 Commented on [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-5. 🗣 Commented on [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+1. ❗️ Closed issue [#428](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/428) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+2. ❗️ Closed issue [#432](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/432) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+3. 🗣 Commented on [#432](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/432) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+4. 🗣 Commented on [#428](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/428) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+5. 🎉 Merged PR [#429](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/pull/429) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 <!--END_SECTION:activity-->
 
 
