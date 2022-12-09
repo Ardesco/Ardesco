@@ -51,9 +51,9 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1658](https://github.com/kubeshop/testkube/issues/1658) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
+1. ❗️ Closed issue [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 2. 🗣 Commented on [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-3. 🗣 Commented on [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+3. 🗣 Commented on [#1658](https://github.com/kubeshop/testkube/issues/1658) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
 4. 🗣 Commented on [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 5. 🗣 Commented on [#436](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/436) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 <!--END_SECTION:activity-->
