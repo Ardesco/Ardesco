@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Ardesco/lazeryattack.com/pull/4) in [Ardesco/lazeryattack.com](https://github.com/Ardesco/lazeryattack.com)
-2. 🗣 Commented on [#419](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/419) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-3. ❗️ Closed issue [#419](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/419) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-4. 🗣 Commented on [#391](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/391) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-5. ❗️ Closed issue [#391](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/391) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+1. 🎉 Merged PR [#1](https://github.com/hmrc/bank-account-reputation-third-parties-stub/pull/1) in [hmrc/bank-account-reputation-third-parties-stub](https://github.com/hmrc/bank-account-reputation-third-parties-stub)
+2. 🎉 Merged PR [#28](https://github.com/hmrc/bank-account-verification-example-frontend/pull/28) in [hmrc/bank-account-verification-example-frontend](https://github.com/hmrc/bank-account-verification-example-frontend)
+3. 🎉 Merged PR [#142](https://github.com/hmrc/address-lookup-frontend/pull/142) in [hmrc/address-lookup-frontend](https://github.com/hmrc/address-lookup-frontend)
+4. 🎉 Merged PR [#68](https://github.com/hmrc/address-lookup/pull/68) in [hmrc/address-lookup](https://github.com/hmrc/address-lookup)
+5. 🎉 Merged PR [#72](https://github.com/hmrc/bank-account-verification-frontend/pull/72) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
 <!--END_SECTION:activity-->
 
 
