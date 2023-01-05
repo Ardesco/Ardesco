@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/hmrc/bank-account-verification-example-frontend/pull/29) in [hmrc/bank-account-verification-example-frontend](https://github.com/hmrc/bank-account-verification-example-frontend)
-2. 🎉 Merged PR [#45](https://github.com/hmrc/bank-account-reputation-frontend/pull/45) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
-3. 🎉 Merged PR [#8](https://github.com/hmrc/nino-gateway/pull/8) in [hmrc/nino-gateway](https://github.com/hmrc/nino-gateway)
-4. 🎉 Merged PR [#17](https://github.com/hmrc/bank-account-gateway/pull/17) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
-5. 🎉 Merged PR [#1](https://github.com/hmrc/bank-account-reputation-third-parties-stub/pull/1) in [hmrc/bank-account-reputation-third-parties-stub](https://github.com/hmrc/bank-account-reputation-third-parties-stub)
+1. 🎉 Merged PR [#73](https://github.com/hmrc/bank-account-verification-frontend/pull/73) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+2. 🎉 Merged PR [#29](https://github.com/hmrc/bank-account-verification-example-frontend/pull/29) in [hmrc/bank-account-verification-example-frontend](https://github.com/hmrc/bank-account-verification-example-frontend)
+3. 🎉 Merged PR [#45](https://github.com/hmrc/bank-account-reputation-frontend/pull/45) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
+4. 🎉 Merged PR [#8](https://github.com/hmrc/nino-gateway/pull/8) in [hmrc/nino-gateway](https://github.com/hmrc/nino-gateway)
+5. 🎉 Merged PR [#17](https://github.com/hmrc/bank-account-gateway/pull/17) in [hmrc/bank-account-gateway](https://github.com/hmrc/bank-account-gateway)
 <!--END_SECTION:activity-->
 
 
