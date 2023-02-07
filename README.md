@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Ardesco/lazeryattack.com/pull/5) in [Ardesco/lazeryattack.com](https://github.com/Ardesco/lazeryattack.com)
-2. 🎉 Merged PR [#73](https://github.com/hmrc/bank-account-verification-frontend/pull/73) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
-3. 🎉 Merged PR [#29](https://github.com/hmrc/bank-account-verification-example-frontend/pull/29) in [hmrc/bank-account-verification-example-frontend](https://github.com/hmrc/bank-account-verification-example-frontend)
-4. 🎉 Merged PR [#45](https://github.com/hmrc/bank-account-reputation-frontend/pull/45) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
-5. 🎉 Merged PR [#8](https://github.com/hmrc/nino-gateway/pull/8) in [hmrc/nino-gateway](https://github.com/hmrc/nino-gateway)
+1. 🎉 Merged PR [#6](https://github.com/Ardesco/lazeryattack.com/pull/6) in [Ardesco/lazeryattack.com](https://github.com/Ardesco/lazeryattack.com)
+2. 🎉 Merged PR [#5](https://github.com/Ardesco/lazeryattack.com/pull/5) in [Ardesco/lazeryattack.com](https://github.com/Ardesco/lazeryattack.com)
+3. 🎉 Merged PR [#73](https://github.com/hmrc/bank-account-verification-frontend/pull/73) in [hmrc/bank-account-verification-frontend](https://github.com/hmrc/bank-account-verification-frontend)
+4. 🎉 Merged PR [#29](https://github.com/hmrc/bank-account-verification-example-frontend/pull/29) in [hmrc/bank-account-verification-example-frontend](https://github.com/hmrc/bank-account-verification-example-frontend)
+5. 🎉 Merged PR [#45](https://github.com/hmrc/bank-account-reputation-frontend/pull/45) in [hmrc/bank-account-reputation-frontend](https://github.com/hmrc/bank-account-reputation-frontend)
 <!--END_SECTION:activity-->
 
 
