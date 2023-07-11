@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6041](https://github.com/apache/jmeter/issues/6041) in [apache/jmeter](https://github.com/apache/jmeter)
-2. 🗣 Commented on [#6041](https://github.com/apache/jmeter/issues/6041) in [apache/jmeter](https://github.com/apache/jmeter)
-3. 🗣 Commented on [#438](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/438) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-4. 🎉 Merged PR [#8](https://github.com/Ardesco/lazeryattack.com/pull/8) in [Ardesco/lazeryattack.com](https://github.com/Ardesco/lazeryattack.com)
-5. 🎉 Merged PR [#7](https://github.com/Ardesco/lazeryattack.com/pull/7) in [Ardesco/lazeryattack.com](https://github.com/Ardesco/lazeryattack.com)
+1. 🗣 Commented on [#434](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/434) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+2. 🔒 Closed issue [#434](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/434) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+3. 🗣 Commented on [#439](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/439) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+4. 🔒 Closed issue [#439](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/439) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+5. 🗣 Commented on [#6041](https://github.com/apache/jmeter/issues/6041) in [apache/jmeter](https://github.com/apache/jmeter)
 <!--END_SECTION:activity-->
 
 
