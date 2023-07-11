@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6041](https://github.com/apache/jmeter/issues/6041) in [apache/jmeter](https://github.com/apache/jmeter)
-2. 🗣 Commented on [#434](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/434) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-3. 🔒 Closed issue [#434](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/434) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-4. 🗣 Commented on [#439](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/439) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
-5. 🔒 Closed issue [#439](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/439) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+1. ❗ Opened issue [#293](https://github.com/s4u/maven-settings-action/issues/293) in [s4u/maven-settings-action](https://github.com/s4u/maven-settings-action)
+2. 🗣 Commented on [#6041](https://github.com/apache/jmeter/issues/6041) in [apache/jmeter](https://github.com/apache/jmeter)
+3. 🗣 Commented on [#434](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/434) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+4. 🔒 Closed issue [#434](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/434) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+5. 🗣 Commented on [#439](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/439) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 <!--END_SECTION:activity-->
 
 
