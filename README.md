@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Add configuration options to action](https://github.com/Ardesco/nasher4gh/releases/tag/v1.1.0) in [Ardesco/nasher4gh](https://github.com/Ardesco/nasher4gh)
-2. 🚀 Published release [Update image used by action](https://github.com/Ardesco/nasher4gh/releases/tag/v1.0.1) in [Ardesco/nasher4gh](https://github.com/Ardesco/nasher4gh)
-3. 🚀 Published release [Initial Relase](https://github.com/Ardesco/nasher4gh/releases/tag/v1) in [Ardesco/nasher4gh](https://github.com/Ardesco/nasher4gh)
-4. ❗ Opened issue [#1](https://github.com/Ardesco/nasher4gh/issues/1) in [Ardesco/nasher4gh](https://github.com/Ardesco/nasher4gh)
-5. 🗣 Commented on [#109](https://github.com/squattingmonk/nasher/issues/109#issuecomment-1660828469) in [squattingmonk/nasher](https://github.com/squattingmonk/nasher)
+1. 🔒 Closed issue [#1](https://github.com/Ardesco/nasher4gh/issues/1) in [Ardesco/nasher4gh](https://github.com/Ardesco/nasher4gh)
+2. 🗣 Commented on [#1](https://github.com/Ardesco/nasher4gh/issues/1#issuecomment-1704302241) in [Ardesco/nasher4gh](https://github.com/Ardesco/nasher4gh)
+3. 🚀 Published release [Add configuration options to action](https://github.com/Ardesco/nasher4gh/releases/tag/v1.1.0) in [Ardesco/nasher4gh](https://github.com/Ardesco/nasher4gh)
+4. 🚀 Published release [Update image used by action](https://github.com/Ardesco/nasher4gh/releases/tag/v1.0.1) in [Ardesco/nasher4gh](https://github.com/Ardesco/nasher4gh)
+5. 🚀 Published release [Initial Relase](https://github.com/Ardesco/nasher4gh/releases/tag/v1) in [Ardesco/nasher4gh](https://github.com/Ardesco/nasher4gh)
 <!--END_SECTION:activity-->
 
 
