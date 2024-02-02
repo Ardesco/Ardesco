@@ -51,11 +51,11 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#67](https://github.com/release-flow/keep-a-changelog-action/issues/67) in [release-flow/keep-a-changelog-action](https://github.com/release-flow/keep-a-changelog-action)
-2. 🗣 Commented on [#61](https://github.com/haltcase/glob/issues/61#issuecomment-1922449766) in [haltcase/glob](https://github.com/haltcase/glob)
-3. 🗣 Commented on [#61](https://github.com/haltcase/glob/issues/61#issuecomment-1913752947) in [haltcase/glob](https://github.com/haltcase/glob)
-4. 🚀 Published release [Update image used by action](https://github.com/Ardesco/nasher4gh/releases/tag/v1.0.1) in [Ardesco/nasher4gh](https://github.com/Ardesco/nasher4gh)
-5. 🚀 Published release [Initial Relase](https://github.com/Ardesco/nasher4gh/releases/tag/v1) in [Ardesco/nasher4gh](https://github.com/Ardesco/nasher4gh)
+1. 🔒 Closed issue [#67](https://github.com/release-flow/keep-a-changelog-action/issues/67) in [release-flow/keep-a-changelog-action](https://github.com/release-flow/keep-a-changelog-action)
+2. 🗣 Commented on [#67](https://github.com/release-flow/keep-a-changelog-action/issues/67#issuecomment-1924630869) in [release-flow/keep-a-changelog-action](https://github.com/release-flow/keep-a-changelog-action)
+3. ❗ Opened issue [#67](https://github.com/release-flow/keep-a-changelog-action/issues/67) in [release-flow/keep-a-changelog-action](https://github.com/release-flow/keep-a-changelog-action)
+4. 🗣 Commented on [#61](https://github.com/haltcase/glob/issues/61#issuecomment-1922449766) in [haltcase/glob](https://github.com/haltcase/glob)
+5. 🗣 Commented on [#61](https://github.com/haltcase/glob/issues/61#issuecomment-1913752947) in [haltcase/glob](https://github.com/haltcase/glob)
 <!--END_SECTION:activity-->
 
 
