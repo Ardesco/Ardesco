@@ -51,8 +51,8 @@
 ### ⚡ ️Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#67](https://github.com/release-flow/keep-a-changelog-action/issues/67) in [release-flow/keep-a-changelog-action](https://github.com/release-flow/keep-a-changelog-action)
-2. 🗣 Commented on [#67](https://github.com/release-flow/keep-a-changelog-action/issues/67#issuecomment-1924630869) in [release-flow/keep-a-changelog-action](https://github.com/release-flow/keep-a-changelog-action)
+1. 🗣 Commented on [#441](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/441#issuecomment-2405767295) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
+2. 🔒 Closed issue [#441](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/issues/441) in [jmeter-maven-plugin/jmeter-maven-plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin)
 3. ❗ Opened issue [#67](https://github.com/release-flow/keep-a-changelog-action/issues/67) in [release-flow/keep-a-changelog-action](https://github.com/release-flow/keep-a-changelog-action)
 4. 🗣 Commented on [#61](https://github.com/haltcase/glob/issues/61#issuecomment-1922449766) in [haltcase/glob](https://github.com/haltcase/glob)
 5. 🗣 Commented on [#61](https://github.com/haltcase/glob/issues/61#issuecomment-1913752947) in [haltcase/glob](https://github.com/haltcase/glob)
