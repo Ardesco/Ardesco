@@ -1,6 +1,5 @@
 ### Hi there, I'm Mark - aka [Ardesco][website] 👋
 
-[![Company Website](https://img.shields.io/website?label=lazeryattack.com&style=for-the-badge&url=https%3A%2F%2Fwww.lazeryattack.com)](https://www.lazeryattack.com)
 [![Code Website](https://img.shields.io/website?label=lazerycode.com&style=for-the-badge&url=https%3A%2F%2Fwww.lazerycode.com)](https://www.lazerycode.com)
 [![Mastering Selenium](https://img.shields.io/website?label=masteringselenium.com&style=for-the-badge&url=https%3A%2F%2Fwww.masteringselenium.com)](https://www.masteringselenium.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ardesco?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Ardesco)
